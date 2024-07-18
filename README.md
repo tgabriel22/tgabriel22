@@ -76,7 +76,7 @@
 </p>
 
 <h1></h1>
-<h3 align="left">Exemples of work:</h3>
+<h3 align="left">Examples of work:</h3>
 <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" widht="256"/>
 <h1></h1>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tgabriel22&" alt="tgabriel22" /></p>
