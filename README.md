@@ -1,5 +1,5 @@
 <a href="https://rishavchanda.io">
-  <img src="https://www.shutterstock.com/image-vector/concept-computer-programming-developing-software-600nw-2149658841.jpg" alt="MasterHead" style="width: 100%; max-width: 1200px; height: auto;">
+  <img src="https://www.mindseed.gr/filemanager/customWD/CUSTOM-WEB-DEVELOPMENT_LINKSHARED.jpg" alt="MasterHead" style="width: 100%; max-width: 1200px; height: auto;">
 </a>
 
 <h1 align="center">Hi 👋, I'm Gabriel Thierry</h1>
