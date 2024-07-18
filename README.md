@@ -1,4 +1,7 @@
-[![MasterHead](https://st4.depositphotos.com/16775192/28673/v/1600/depositphotos_286731136-stock-illustration-programming-concept-banner.jpg)](https://rishavchanda.io)
+<a href="https://rishavchanda.io">
+  <img src="https://www.shutterstock.com/image-vector/concept-computer-programming-developing-software-600nw-2149658841.jpg" alt="MasterHead" style="width: 100%; max-width: 1200px; height: auto;">
+</a>
+
 <h1 align="center">Hi 👋, I'm Gabriel Thierry</h1>
 <h3 align="center">A passionate front-End developer from Russia</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
