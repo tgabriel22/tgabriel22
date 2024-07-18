@@ -1,5 +1,5 @@
 <a href="https://rishavchanda.io">
-  <img src="https://www.wedowebapps.com/wp-content/uploads/2024/05/custom-web-development.webp" alt="MasterHead" style="width: 100%; max-width: 1200px; height: auto;">
+  <img src="https://st2.depositphotos.com/16775192/47495/v/450/depositphotos_474954948-stock-illustration-banner-software-development-programming-web.jpg" alt="MasterHead" style="width: 100%; max-width: 1200px; height: auto;">
 </a>
 
 <h1 align="center">Hi 👋, I'm Gabriel Thierry</h1>
