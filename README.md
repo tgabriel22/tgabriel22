@@ -77,7 +77,8 @@
 
 <h1></h1>
 <h3 align="left">Examples of work:</h3>
-![ECommerce clothing Store](https://thierrygabrielportfolio.vercel.app/assets/ECommerceDemo2.jpg)
+<!-- ![ECommerce clothing Store](https://thierrygabrielportfolio.vercel.app/assets/ECommerceDemo2.jpg) -->
+<img src="https://thierrygabrielportfolio.vercel.app/assets/ECommerceDemo2.jpg" widht="256"/>
 
 <!-- <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" widht="256"/> -->
 <h1></h1>
